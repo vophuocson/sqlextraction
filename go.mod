@@ -1,4 +1,4 @@
-module sqlextraction
+module github.com/vophuocson/sqlextraction
 
 go 1.24.3
 
